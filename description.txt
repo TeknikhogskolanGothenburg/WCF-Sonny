@@ -19,5 +19,16 @@ GetCarsByIds(CarRequest request) this operation also features message contract
 and therefor the authentication process can be sent in the header. Faultexception
 lets the client in on what went wrong with the service at Exception.
 
+One thing i found unnecessary was having essentially two classes for booking,
+car, customer. These 3 classes are defined in Domain space and are used for
+BL and such. But to use these classes in my Service id want Datacontract on them
+which I think has to be/should be within the Service project.
+This lead to a ton of Type Conversions in the operations.
+
+Originally I had planned to use a service for each type of entity such as
+CustomerService, CarService, BookingService but decided there wasn't really that many
+Operations needed to make that a necessity. Ideally I would rename CarService now that
+it's used for almost everything to CarRentalService or something.
+
 
 
