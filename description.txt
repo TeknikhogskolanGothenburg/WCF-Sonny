@@ -1,0 +1,23 @@
+Sonny Aasen Description for WCF Project
+
+The Project is divided into 2 services:
+CarService and RestService
+
+Bindings used are basicHttpBinding for RestService and CarService
+aswell as netTcpBinding on CarService
+
+These bindings while low on security features offer the best performance
+and if one requires more security you could use HTTPS with it as included
+in the serviceBehavior tag in the app config, or even Transport Security.
+
+RestService includes a Post and Get method for variety,
+the post method is quite complicated to call because it needs dates as JSON
+which is hard to convert to DateTime.
+
+I've included a small Faultexception sample on authenticating the operation
+GetCarsByIds(CarRequest request) this operation also features message contract
+and therefor the authentication process can be sent in the header. Faultexception
+lets the client in on what went wrong with the service at Exception.
+
+
+
