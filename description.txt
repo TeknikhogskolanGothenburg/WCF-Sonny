@@ -19,6 +19,10 @@ GetCarsByIds(CarRequest request) this operation also features message contract
 and therefor the authentication process can be sent in the header. Faultexception
 lets the client in on what went wrong with the service at Exception.
 
+I did struggle to find good places to put exceptionhandling as my only cause for
+exceptions in this project thus far was the client side input being wrong, which
+in turn triggers the exception on the client side.
+
 One thing i found unnecessary was having essentially two classes for booking,
 car, customer. These 3 classes are defined in Domain space and are used for
 BL and such. But to use these classes in my Service id want Datacontract on them
