@@ -1,0 +1,13 @@
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\BL.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\BL.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\DAL.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\Dapper.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\Domain.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\DAL.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\Domain.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\bin\Debug\Dapper.xml
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\obj\Debug\BL.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\BL\obj\Debug\BL.pdb

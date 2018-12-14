@@ -1,0 +1,16 @@
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\CarRentalWCFService.dll.config
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\CarRentalWCFService.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\CarRentalWCFService.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\BL.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\Domain.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\DAL.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\Dapper.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\BL.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\Domain.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\DAL.pdb
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\bin\Debug\Dapper.xml
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\obj\Debug\CarRentalWCFService.csprojAssemblyReference.cache
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\obj\Debug\CarRentalWCFService.csproj.CoreCompileInputs.cache
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\obj\Debug\CarRentalWCFService.csproj.CopyComplete
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\obj\Debug\CarRentalWCFService.dll
+C:\Users\Sonny\source\repos\WCFProject\WCFProject\CarRentalWCFService\obj\Debug\CarRentalWCFService.pdb
